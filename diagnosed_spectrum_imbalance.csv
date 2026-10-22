@@ -1,0 +1,13 @@
+Machine_number,Location,Direction,Overall_RMS_mm_s,Temperature_C,1x_Amp_mm_s,2x_Amp_mm_s,High_Freq_Max_Amp,In_Zone_C,Diagnosed_Problem
+M1201,M1,A,4.209,45.0,4.2,0.251,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,M1,H,5.71,45.0,5.7,0.301,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,M1,V,5.311,45.0,5.3,0.3,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,M2,A,3.608,45.0,3.6,0.2,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,M2,H,5.008,45.0,4.999,0.25,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,M2,V,4.709,45.0,4.7,0.249,0.002,False,Normal / Acceptable (Zone A/B)
+M1201,P1,A,6.409,45.0,6.4,0.299,0.003,False,Normal / Acceptable (Zone A/B)
+M1201,P1,H,8.015,45.0,8.0,0.45,0.002,True,Imbalance
+M1201,P1,V,7.513,45.0,7.5,0.4,0.002,True,Imbalance
+M1201,P2,A,7.311,45.0,7.301,0.35,0.002,True,Imbalance
+M1201,P2,H,9.016,45.0,8.999,0.499,0.002,True,Imbalance
+M1201,P2,V,8.515,45.0,8.501,0.45,0.002,True,Imbalance

@@ -1,0 +1,15 @@
+Machine_number,time stamp,max_machine_vibration,dominant_location,locations_in_zone_c_count,max_machine_temp,ISO_10816_7_Severity_Zone,Diagnosed_Problem
+M1202,2024-08-10,8.65,P2,1,74.24,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1202,2024-08-11,9.34,P2,1,87.85,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1202,2024-08-12,8.77,P2,1,75.67,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1202,2024-08-13,8.69,P2,1,84.64,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1202,2024-08-14,8.78,P2,1,81.64,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1204,2025-03-20,8.02,P3,1,82.31,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1204,2025-03-21,8.77,P3,1,78.87,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1204,2025-03-22,9.48,P3,1,80.43,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1204,2025-03-23,7.95,P3,1,83.14,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1204,2025-03-24,8.66,P3,1,81.15,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1201,2025-10-05,9.58,P1,1,81.13,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1201,2025-10-06,9.85,P1,1,86.71,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1201,2025-10-07,8.59,P1,1,76.43,Zone D (Hazardous),High Frequency Vibration with High Temperature
+M1201,2025-10-08,8.94,P1,1,75.65,Zone D (Hazardous),High Frequency Vibration with High Temperature
